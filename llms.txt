@@ -1,0 +1,15 @@
+# AgentMemory Mesh
+
+AgentMemory Mesh is a hosted remote MCP for agent memory MCP.
+
+Website: https://agentmemorymcp.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: agent memory MCP
+Type: MCP
+Default plan: team
+MCP endpoint: https://agentmemorymcp.clauxel.com/mcp
+Server card: https://agentmemorymcp.clauxel.com/server-card.json
+Registry name: com.clauxel.agentmemorymcp/agentmemorymcp-mcp
+Tools: memory_smart_search, memory_save_observation, memory_session_summary, memory_graph_query
+
+Public boundary: docs-only repository; no production source code or secrets.
